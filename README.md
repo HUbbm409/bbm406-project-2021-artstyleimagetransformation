@@ -11,6 +11,6 @@ You can reach the dataset below:
 - https://people.eecs.berkeley.edu/~taesung_park/CycleGAN/datasets/
 - https://www.kaggle.com/ikarus777/best-artworks-of-all-time
 
-#Presentation
+# Presentation
 
 You can see our presentation here: https://www.youtube.com/watch?v=v5Lun1viqBc
